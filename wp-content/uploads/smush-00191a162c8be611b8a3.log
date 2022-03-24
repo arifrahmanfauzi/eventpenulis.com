@@ -1,0 +1,1059 @@
+[2021-05-31 12:10:26 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:15:30 : INFO] - 
+ 
+[2021-05-31 12:15:30 : INFO] - Header for logs at time:  Mon, 31 May 2021 12:15:30 +0000 on https://eventpenulis.com 
+[2021-05-31 12:15:30 : INFO] - WP: 5.7.2 
+[2021-05-31 12:15:30 : INFO] - PHP: 7.4.16 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-05-31 12:15:30 : INFO] - MySQL: 5.5.5 
+[2021-05-31 12:15:30 : INFO] - WPLANG: en_US 
+[2021-05-31 12:15:30 : INFO] - Server: LiteSpeed 
+[2021-05-31 12:15:30 : INFO] - Outbound connections: N 
+[2021-05-31 12:15:30 : INFO] - safe_mode: 0 
+[2021-05-31 12:15:30 : INFO] - max_execution_time: 300 
+[2021-05-31 12:15:30 : INFO] - memory_limit: 256M (used: 11.5M | 12M) 
+[2021-05-31 12:15:30 : INFO] - multisite: N 
+[2021-05-31 12:15:30 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-05-31 12:15:30 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-05-31 12:15:30 : INFO] - Set semaphore last lock (smush) time to 2021-05-31 12:15:30 
+[2021-05-31 12:15:30 : INFO] - Semaphore lock (smush) complete 
+[2021-05-31 12:15:30 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2021-05-31 12:15:30 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:15:30 : INFO] - 95 
+[2021-05-31 12:15:35 : INFO] - Backing up the original image - 2021/05/wikimedia-updraft-pre-smush-original.png 
+[2021-05-31 12:15:35 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:15:35 : INFO] - 95 
+[2021-05-31 12:15:40 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:15:40 : INFO] - 95 
+[2021-05-31 12:15:42 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:15:42 : INFO] - 95 
+[2021-05-31 12:15:49 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:15:49 : INFO] - 95 
+[2021-05-31 12:15:57 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:15:57 : INFO] - 95 
+[2021-05-31 12:16:01 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:16:01 : INFO] - 95 
+[2021-05-31 12:16:03 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:16:03 : INFO] - 95 
+[2021-05-31 12:16:05 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:16:05 : INFO] - 95 
+[2021-05-31 12:16:08 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:16:09 : INFO] - 95 
+[2021-05-31 12:16:12 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:16:12 : INFO] - 95 
+[2021-05-31 12:16:14 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:16:14 : INFO] - 95 
+[2021-05-31 12:16:16 : INFO] - Re_Smush_It_Task with attachment ID : 2189, autocreated on : May 31, 2021 12:10:26 
+[2021-05-31 12:16:16 : INFO] - 95 
+[2021-05-31 12:16:19 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/05/wikimedia.png.The file was compressed from 391.34 KB to 175.76 KB saving 55.09 percent using WP-Optimize 
+[2021-05-31 12:16:19 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2021-05-31 12:16:19 : INFO] - Set semaphore last lock (smush) time to 2021-05-31 12:16:19 
+[2021-05-31 12:16:19 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-05-31 12:16:19 : INFO] - Semaphore (smush) unlocked 
+[2021-05-31 12:16:19 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-05-31 12:16:19 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-05-31 12:16:19 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-05-31 12:38:28 : INFO] - 
+ 
+[2021-05-31 12:38:28 : INFO] - Header for logs at time:  Mon, 31 May 2021 12:38:28 +0000 on http://eventpenulis.com 
+[2021-05-31 12:38:28 : INFO] - WP: 5.7.2 
+[2021-05-31 12:38:28 : INFO] - PHP: 7.4.16 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-05-31 12:38:28 : INFO] - MySQL: 5.5.5 
+[2021-05-31 12:38:28 : INFO] - WPLANG: en_US 
+[2021-05-31 12:38:28 : INFO] - Server: LiteSpeed 
+[2021-05-31 12:38:28 : INFO] - Outbound connections: N 
+[2021-05-31 12:38:28 : INFO] - safe_mode: 0 
+[2021-05-31 12:38:28 : INFO] - max_execution_time: 300 
+[2021-05-31 12:38:28 : INFO] - memory_limit: 256M (used: 11.5M | 12M) 
+[2021-05-31 12:38:28 : INFO] - multisite: N 
+[2021-05-31 12:38:28 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-05-31 12:38:28 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-06-16 02:45:13 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:49:26 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:50:19 : INFO] - 
+ 
+[2021-06-16 02:50:19 : INFO] - Header for logs at time:  Wed, 16 Jun 2021 02:50:19 +0000 on https://eventpenulis.com 
+[2021-06-16 02:50:19 : INFO] - WP: 5.7.2 
+[2021-06-16 02:50:19 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-16 02:50:19 : INFO] - MySQL: 5.5.5 
+[2021-06-16 02:50:19 : INFO] - WPLANG: en_US 
+[2021-06-16 02:50:19 : INFO] - Server: LiteSpeed 
+[2021-06-16 02:50:19 : INFO] - Outbound connections: N 
+[2021-06-16 02:50:19 : INFO] - safe_mode: 0 
+[2021-06-16 02:50:19 : INFO] - max_execution_time: 300 
+[2021-06-16 02:50:19 : INFO] - memory_limit: 256M (used: 46.1M | 48M) 
+[2021-06-16 02:50:19 : INFO] - multisite: N 
+[2021-06-16 02:50:19 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-16 02:50:19 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-06-16 02:50:19 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 02:50:19 
+[2021-06-16 02:50:19 : INFO] - Semaphore lock (smush) complete 
+[2021-06-16 02:50:19 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2021-06-16 02:50:19 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:19 : INFO] - 95 
+[2021-06-16 02:50:23 : INFO] - Backing up the original image - 2021/06/image-updraft-pre-smush-original.png 
+[2021-06-16 02:50:23 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:23 : INFO] - 95 
+[2021-06-16 02:50:27 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:27 : INFO] - 95 
+[2021-06-16 02:50:29 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:29 : INFO] - 95 
+[2021-06-16 02:50:30 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:30 : INFO] - 95 
+[2021-06-16 02:50:36 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:36 : INFO] - 95 
+[2021-06-16 02:50:44 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:44 : INFO] - 95 
+[2021-06-16 02:50:45 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:45 : INFO] - 95 
+[2021-06-16 02:50:47 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:47 : INFO] - 95 
+[2021-06-16 02:50:50 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:50 : INFO] - 95 
+[2021-06-16 02:50:54 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:54 : INFO] - 95 
+[2021-06-16 02:50:56 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:56 : INFO] - 95 
+[2021-06-16 02:50:59 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:50:59 : INFO] - 95 
+[2021-06-16 02:51:01 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:51:01 : INFO] - 95 
+[2021-06-16 02:51:03 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:51:03 : INFO] - 95 
+[2021-06-16 02:51:04 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:51:04 : INFO] - 95 
+[2021-06-16 02:51:05 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:51:05 : INFO] - 95 
+[2021-06-16 02:51:07 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:51:07 : INFO] - 95 
+[2021-06-16 02:51:11 : INFO] - Re_Smush_It_Task with attachment ID : 2198, autocreated on : June 16, 2021 02:45:13 
+[2021-06-16 02:51:11 : INFO] - 95 
+[2021-06-16 02:51:15 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/06/image.png.The file was compressed from 639.45 KB to 166.52 KB saving 73.96 percent using WP-Optimize 
+[2021-06-16 02:51:15 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2021-06-16 02:51:15 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 02:51:15 
+[2021-06-16 02:51:15 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2021-06-16 02:51:15 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:15 : INFO] - 95 
+[2021-06-16 02:51:17 : INFO] - Backing up the original image - 2021/06/Screenshot-2021-06-16-at-09-43-28-Event-Lomba-Menulis-eventpenulis-•-Instagram-photos-and-videos-updraft-pre-smush-original.png 
+[2021-06-16 02:51:17 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:17 : INFO] - 95 
+[2021-06-16 02:51:19 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:19 : INFO] - 95 
+[2021-06-16 02:51:20 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:20 : INFO] - 95 
+[2021-06-16 02:51:23 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:23 : INFO] - 95 
+[2021-06-16 02:51:25 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:25 : INFO] - 95 
+[2021-06-16 02:51:27 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:27 : INFO] - 95 
+[2021-06-16 02:51:29 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:29 : INFO] - 95 
+[2021-06-16 02:51:30 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:30 : INFO] - 95 
+[2021-06-16 02:51:34 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:34 : INFO] - 95 
+[2021-06-16 02:51:36 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:36 : INFO] - 95 
+[2021-06-16 02:51:37 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:37 : INFO] - 95 
+[2021-06-16 02:51:39 : INFO] - Re_Smush_It_Task with attachment ID : 2199, autocreated on : June 16, 2021 02:49:26 
+[2021-06-16 02:51:39 : INFO] - 95 
+[2021-06-16 02:51:42 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/06/Screenshot-2021-06-16-at-09-43-28-Event-Lomba-Menulis-eventpenulis-•-Instagram-photos-and-videos.png.The file was compressed from 281.21 KB to 100.68 KB saving 64.2 percent using WP-Optimize 
+[2021-06-16 02:51:42 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2021-06-16 02:51:42 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 02:51:42 
+[2021-06-16 02:51:42 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-06-16 02:51:42 : INFO] - Semaphore (smush) unlocked 
+[2021-06-16 02:51:42 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-06-16 02:51:42 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-06-16 02:51:42 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-06-16 02:58:05 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:32 : INFO] - 
+ 
+[2021-06-16 03:00:32 : INFO] - Header for logs at time:  Wed, 16 Jun 2021 03:00:32 +0000 on https://eventpenulis.com 
+[2021-06-16 03:00:32 : INFO] - WP: 5.7.2 
+[2021-06-16 03:00:32 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-16 03:00:32 : INFO] - MySQL: 5.5.5 
+[2021-06-16 03:00:32 : INFO] - WPLANG: en_US 
+[2021-06-16 03:00:32 : INFO] - Server: LiteSpeed 
+[2021-06-16 03:00:32 : INFO] - Outbound connections: N 
+[2021-06-16 03:00:32 : INFO] - safe_mode: 0 
+[2021-06-16 03:00:32 : INFO] - max_execution_time: 300 
+[2021-06-16 03:00:32 : INFO] - memory_limit: 256M (used: 30.6M | 32M) 
+[2021-06-16 03:00:32 : INFO] - multisite: N 
+[2021-06-16 03:00:32 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-16 03:00:32 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-06-16 03:00:32 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 03:00:32 
+[2021-06-16 03:00:32 : INFO] - Semaphore lock (smush) complete 
+[2021-06-16 03:00:32 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2021-06-16 03:00:32 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:32 : INFO] - 95 
+[2021-06-16 03:00:37 : INFO] - Backing up the original image - 2021/06/Rev2-ePoster-WSC-Landscape-Full-Page-01-1024x576-1-updraft-pre-smush-original.png 
+[2021-06-16 03:00:37 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:37 : INFO] - 95 
+[2021-06-16 03:00:41 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:41 : INFO] - 95 
+[2021-06-16 03:00:43 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:43 : INFO] - 95 
+[2021-06-16 03:00:46 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:46 : INFO] - 95 
+[2021-06-16 03:00:52 : INFO] - Task with ID 4 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-06-16 03:00:52 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/a42d0ae84578b15440e20b38d2f6ea01\/_src_Rev2-ePoster-WSC-Landscape-Full-Page-01-1024x576-1-940x400.png","dest":"http:\/\/par3.static.resmush.it\/a42d0ae84578b15440e20b38d2f6ea01\/Rev2-ePoster-WSC-Landscape-Full-Page-01-1024x576-1-940x400.png","src_size":691817,"dest_size":222138,"percent":68,"output":"json","expires":"Wed, 16 Jun 2021 05:05:47 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-06-16 03:00:52 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:52 : INFO] - 95 
+[2021-06-16 03:00:55 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:55 : INFO] - 95 
+[2021-06-16 03:00:58 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:58 : INFO] - 95 
+[2021-06-16 03:00:59 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:00:59 : INFO] - 95 
+[2021-06-16 03:01:01 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:01:01 : INFO] - 95 
+[2021-06-16 03:01:04 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:01:04 : INFO] - 95 
+[2021-06-16 03:01:06 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:01:06 : INFO] - 95 
+[2021-06-16 03:01:10 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:01:10 : INFO] - 95 
+[2021-06-16 03:01:12 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:01:12 : INFO] - 95 
+[2021-06-16 03:01:13 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:01:13 : INFO] - 95 
+[2021-06-16 03:01:15 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:01:15 : INFO] - 95 
+[2021-06-16 03:01:17 : INFO] - Re_Smush_It_Task with attachment ID : 2203, autocreated on : June 16, 2021 02:58:05 
+[2021-06-16 03:01:17 : INFO] - 95 
+[2021-06-16 03:01:22 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/06/Rev2-ePoster-WSC-Landscape-Full-Page-01-1024x576-1.png.The file was compressed from 1.14 MB to 321.55 KB saving 72.56 percent using WP-Optimize 
+[2021-06-16 03:01:22 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2021-06-16 03:01:22 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 03:01:22 
+[2021-06-16 03:01:22 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-06-16 03:01:22 : INFO] - Semaphore (smush) unlocked 
+[2021-06-16 03:01:22 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-06-16 03:01:22 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-06-16 03:01:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-06-16 03:06:13 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:32 : INFO] - 
+ 
+[2021-06-16 03:10:32 : INFO] - Header for logs at time:  Wed, 16 Jun 2021 03:10:32 +0000 on https://eventpenulis.com 
+[2021-06-16 03:10:32 : INFO] - WP: 5.7.2 
+[2021-06-16 03:10:32 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-16 03:10:32 : INFO] - MySQL: 5.5.5 
+[2021-06-16 03:10:32 : INFO] - WPLANG: en_US 
+[2021-06-16 03:10:32 : INFO] - Server: LiteSpeed 
+[2021-06-16 03:10:32 : INFO] - Outbound connections: N 
+[2021-06-16 03:10:32 : INFO] - safe_mode: 0 
+[2021-06-16 03:10:32 : INFO] - max_execution_time: 300 
+[2021-06-16 03:10:32 : INFO] - memory_limit: 256M (used: 30.6M | 2M) 
+[2021-06-16 03:10:32 : INFO] - multisite: N 
+[2021-06-16 03:10:32 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-16 03:10:32 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-06-16 03:10:32 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 03:10:32 
+[2021-06-16 03:10:32 : INFO] - Semaphore lock (smush) complete 
+[2021-06-16 03:10:32 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2021-06-16 03:10:32 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:32 : INFO] - 95 
+[2021-06-16 03:10:36 : INFO] - Backing up the original image - 2021/06/WhatsApp-Image-2021-06-08-at-15.25.02-updraft-pre-smush-original.jpeg 
+[2021-06-16 03:10:36 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:36 : INFO] - 95 
+[2021-06-16 03:10:37 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:37 : INFO] - 95 
+[2021-06-16 03:10:38 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:38 : INFO] - 95 
+[2021-06-16 03:10:43 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:43 : INFO] - 95 
+[2021-06-16 03:10:45 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:45 : INFO] - 95 
+[2021-06-16 03:10:47 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:47 : INFO] - 95 
+[2021-06-16 03:10:49 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:49 : INFO] - 95 
+[2021-06-16 03:10:50 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:50 : INFO] - 95 
+[2021-06-16 03:10:51 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:51 : INFO] - 95 
+[2021-06-16 03:10:53 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:53 : INFO] - 95 
+[2021-06-16 03:10:54 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:54 : INFO] - 95 
+[2021-06-16 03:10:56 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:10:56 : INFO] - 95 
+[2021-06-16 03:11:00 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:11:00 : INFO] - 95 
+[2021-06-16 03:11:01 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:11:01 : INFO] - 95 
+[2021-06-16 03:11:03 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:11:03 : INFO] - 95 
+[2021-06-16 03:11:06 : INFO] - Re_Smush_It_Task with attachment ID : 2206, autocreated on : June 16, 2021 03:06:13 
+[2021-06-16 03:11:06 : INFO] - 95 
+[2021-06-16 03:11:12 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/06/WhatsApp-Image-2021-06-08-at-15.25.02.jpeg.The file was compressed from 198.04 KB to 196.70 KB saving 0.68 percent using WP-Optimize 
+[2021-06-16 03:11:12 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2021-06-16 03:11:12 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 03:11:12 
+[2021-06-16 03:11:12 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-06-16 03:11:12 : INFO] - Semaphore (smush) unlocked 
+[2021-06-16 03:11:12 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-06-16 03:11:12 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-06-16 03:11:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-06-16 03:21:13 : INFO] - 
+ 
+[2021-06-16 03:21:13 : INFO] - Header for logs at time:  Wed, 16 Jun 2021 03:21:13 +0000 on https://eventpenulis.com 
+[2021-06-16 03:21:13 : INFO] - WP: 5.7.2 
+[2021-06-16 03:21:13 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-16 03:21:13 : INFO] - MySQL: 5.5.5 
+[2021-06-16 03:21:13 : INFO] - WPLANG: en_US 
+[2021-06-16 03:21:13 : INFO] - Server: LiteSpeed 
+[2021-06-16 03:21:13 : INFO] - Outbound connections: N 
+[2021-06-16 03:21:13 : INFO] - safe_mode: 0 
+[2021-06-16 03:21:13 : INFO] - max_execution_time: 300 
+[2021-06-16 03:21:13 : INFO] - memory_limit: 256M (used: 32.4M | 34M) 
+[2021-06-16 03:21:13 : INFO] - multisite: N 
+[2021-06-16 03:21:13 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-16 03:21:13 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-06-16 03:21:23 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:37:40 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:42:54 : INFO] - 
+ 
+[2021-06-16 03:42:54 : INFO] - Header for logs at time:  Wed, 16 Jun 2021 03:42:54 +0000 on https://eventpenulis.com 
+[2021-06-16 03:42:54 : INFO] - WP: 5.7.2 
+[2021-06-16 03:42:54 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-16 03:42:54 : INFO] - MySQL: 5.5.5 
+[2021-06-16 03:42:54 : INFO] - WPLANG: en_US 
+[2021-06-16 03:42:54 : INFO] - Server: LiteSpeed 
+[2021-06-16 03:42:54 : INFO] - Outbound connections: N 
+[2021-06-16 03:42:54 : INFO] - safe_mode: 0 
+[2021-06-16 03:42:54 : INFO] - max_execution_time: 300 
+[2021-06-16 03:42:54 : INFO] - memory_limit: 256M (used: 32.4M | 34M) 
+[2021-06-16 03:42:54 : INFO] - multisite: N 
+[2021-06-16 03:42:54 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-16 03:42:54 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-06-16 03:42:54 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 03:42:54 
+[2021-06-16 03:42:54 : INFO] - Semaphore lock (smush) complete 
+[2021-06-16 03:42:54 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2021-06-16 03:42:54 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:42:54 : INFO] - 95 
+[2021-06-16 03:42:59 : INFO] - Backing up the original image - 2021/06/GAMBAR-FEED-updraft-pre-smush-original.png 
+[2021-06-16 03:42:59 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:42:59 : INFO] - 95 
+[2021-06-16 03:43:03 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:03 : INFO] - 95 
+[2021-06-16 03:43:06 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:06 : INFO] - 95 
+[2021-06-16 03:43:10 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:10 : INFO] - 95 
+[2021-06-16 03:43:16 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:16 : INFO] - 95 
+[2021-06-16 03:43:21 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:21 : INFO] - 95 
+[2021-06-16 03:43:24 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:24 : INFO] - 95 
+[2021-06-16 03:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:26 : INFO] - 95 
+[2021-06-16 03:43:28 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:28 : INFO] - 95 
+[2021-06-16 03:43:30 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:30 : INFO] - 95 
+[2021-06-16 03:43:31 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:31 : INFO] - 95 
+[2021-06-16 03:43:33 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:33 : INFO] - 95 
+[2021-06-16 03:43:34 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:34 : INFO] - 95 
+[2021-06-16 03:43:37 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:37 : INFO] - 95 
+[2021-06-16 03:43:38 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:38 : INFO] - 95 
+[2021-06-16 03:43:39 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:39 : INFO] - 95 
+[2021-06-16 03:43:41 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:41 : INFO] - 95 
+[2021-06-16 03:43:44 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:44 : INFO] - 95 
+[2021-06-16 03:43:48 : INFO] - Re_Smush_It_Task with attachment ID : 2216, autocreated on : June 16, 2021 03:37:40 
+[2021-06-16 03:43:48 : INFO] - 95 
+[2021-06-16 03:43:52 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/06/GAMBAR-FEED.png.The file was compressed from 712.79 KB to 223.61 KB saving 68.63 percent using WP-Optimize 
+[2021-06-16 03:43:52 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2021-06-16 03:43:52 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 03:43:52 
+[2021-06-16 03:43:52 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2021-06-16 03:43:52 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:43:52 : INFO] - 95 
+[2021-06-16 03:43:55 : INFO] - Backing up the original image - 2021/06/ibu-ibu-nulis-updraft-pre-smush-original.png 
+[2021-06-16 03:43:55 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:43:55 : INFO] - 95 
+[2021-06-16 03:43:58 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:43:58 : INFO] - 95 
+[2021-06-16 03:43:59 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:43:59 : INFO] - 95 
+[2021-06-16 03:44:02 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:44:02 : INFO] - 95 
+[2021-06-16 03:44:04 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:44:04 : INFO] - 95 
+[2021-06-16 03:44:07 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:44:07 : INFO] - 95 
+[2021-06-16 03:44:09 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:44:09 : INFO] - 95 
+[2021-06-16 03:44:10 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:44:10 : INFO] - 95 
+[2021-06-16 03:44:12 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:44:12 : INFO] - 95 
+[2021-06-16 03:44:14 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:44:14 : INFO] - 95 
+[2021-06-16 03:44:15 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:44:15 : INFO] - 95 
+[2021-06-16 03:44:16 : INFO] - Re_Smush_It_Task with attachment ID : 2210, autocreated on : June 16, 2021 03:21:23 
+[2021-06-16 03:44:16 : INFO] - 95 
+[2021-06-16 03:44:19 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/06/ibu-ibu-nulis.png.The file was compressed from 246.22 KB to 126.47 KB saving 48.64 percent using WP-Optimize 
+[2021-06-16 03:44:19 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2021-06-16 03:44:19 : INFO] - Set semaphore last lock (smush) time to 2021-06-16 03:44:19 
+[2021-06-16 03:44:19 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-06-16 03:44:19 : INFO] - Semaphore (smush) unlocked 
+[2021-06-16 03:44:19 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-06-16 03:44:19 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-06-16 03:44:19 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-06-16 03:53:05 : INFO] - 
+ 
+[2021-06-16 03:53:05 : INFO] - Header for logs at time:  Wed, 16 Jun 2021 03:53:05 +0000 on https://eventpenulis.com 
+[2021-06-16 03:53:05 : INFO] - WP: 5.7.2 
+[2021-06-16 03:53:05 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-16 03:53:05 : INFO] - MySQL: 5.5.5 
+[2021-06-16 03:53:05 : INFO] - WPLANG: en_US 
+[2021-06-16 03:53:05 : INFO] - Server: LiteSpeed 
+[2021-06-16 03:53:05 : INFO] - Outbound connections: N 
+[2021-06-16 03:53:05 : INFO] - safe_mode: 0 
+[2021-06-16 03:53:05 : INFO] - max_execution_time: 300 
+[2021-06-16 03:53:05 : INFO] - memory_limit: 256M (used: 32.4M | 34M) 
+[2021-06-16 03:53:05 : INFO] - multisite: N 
+[2021-06-16 03:53:05 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-16 03:53:05 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-06-23 08:03:15 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:28 : INFO] - 
+ 
+[2021-06-23 08:09:28 : INFO] - Header for logs at time:  Wed, 23 Jun 2021 08:09:28 +0000 on https://eventpenulis.com 
+[2021-06-23 08:09:28 : INFO] - WP: 5.7.2 
+[2021-06-23 08:09:28 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-23 08:09:28 : INFO] - MySQL: 5.5.5 
+[2021-06-23 08:09:28 : INFO] - WPLANG: en_US 
+[2021-06-23 08:09:28 : INFO] - Server: LiteSpeed 
+[2021-06-23 08:09:28 : INFO] - Outbound connections: N 
+[2021-06-23 08:09:28 : INFO] - safe_mode: 0 
+[2021-06-23 08:09:28 : INFO] - max_execution_time: 300 
+[2021-06-23 08:09:28 : INFO] - memory_limit: 256M (used: 32.4M | 22M) 
+[2021-06-23 08:09:28 : INFO] - multisite: N 
+[2021-06-23 08:09:28 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-23 08:09:29 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-06-23 08:09:29 : INFO] - Set semaphore last lock (smush) time to 2021-06-23 08:09:29 
+[2021-06-23 08:09:29 : INFO] - Semaphore lock (smush) complete 
+[2021-06-23 08:09:29 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2021-06-23 08:09:29 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:29 : INFO] - 95 
+[2021-06-23 08:09:31 : INFO] - Backing up the original image - 2021/06/hjkjkjhk-updraft-pre-smush-original.png 
+[2021-06-23 08:09:31 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:31 : INFO] - 95 
+[2021-06-23 08:09:36 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:36 : INFO] - 95 
+[2021-06-23 08:09:38 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:38 : INFO] - 95 
+[2021-06-23 08:09:42 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:42 : INFO] - 95 
+[2021-06-23 08:09:44 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:44 : INFO] - 95 
+[2021-06-23 08:09:46 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:46 : INFO] - 95 
+[2021-06-23 08:09:48 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:48 : INFO] - 95 
+[2021-06-23 08:09:49 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:49 : INFO] - 95 
+[2021-06-23 08:09:51 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:51 : INFO] - 95 
+[2021-06-23 08:09:53 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:53 : INFO] - 95 
+[2021-06-23 08:09:57 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:57 : INFO] - 95 
+[2021-06-23 08:09:59 : INFO] - Re_Smush_It_Task with attachment ID : 2229, autocreated on : June 23, 2021 08:03:15 
+[2021-06-23 08:09:59 : INFO] - 95 
+[2021-06-23 08:10:04 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/06/hjkjkjhk.png.The file was compressed from 393.10 KB to 114.86 KB saving 70.78 percent using WP-Optimize 
+[2021-06-23 08:10:04 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2021-06-23 08:10:04 : INFO] - Set semaphore last lock (smush) time to 2021-06-23 08:10:04 
+[2021-06-23 08:10:04 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-06-23 08:10:04 : INFO] - Semaphore (smush) unlocked 
+[2021-06-23 08:10:04 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-06-23 08:10:04 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-06-23 08:10:04 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-06-23 08:40:42 : INFO] - 
+ 
+[2021-06-23 08:40:42 : INFO] - Header for logs at time:  Wed, 23 Jun 2021 08:40:42 +0000 on https://eventpenulis.com 
+[2021-06-23 08:40:42 : INFO] - WP: 5.7.2 
+[2021-06-23 08:40:42 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-23 08:40:42 : INFO] - MySQL: 5.5.5 
+[2021-06-23 08:40:42 : INFO] - WPLANG: en_US 
+[2021-06-23 08:40:42 : INFO] - Server: LiteSpeed 
+[2021-06-23 08:40:42 : INFO] - Outbound connections: N 
+[2021-06-23 08:40:42 : INFO] - safe_mode: 0 
+[2021-06-23 08:40:42 : INFO] - max_execution_time: 300 
+[2021-06-23 08:40:42 : INFO] - memory_limit: 256M (used: 11.5M | 12M) 
+[2021-06-23 08:40:42 : INFO] - multisite: N 
+[2021-06-23 08:40:42 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-23 08:40:42 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-06-29 12:08:44 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:13:46 : INFO] - 
+ 
+[2021-06-29 12:13:46 : INFO] - Header for logs at time:  Tue, 29 Jun 2021 12:13:46 +0000 on https://eventpenulis.com 
+[2021-06-29 12:13:46 : INFO] - WP: 5.7.2 
+[2021-06-29 12:13:46 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-29 12:13:46 : INFO] - MySQL: 5.5.5 
+[2021-06-29 12:13:46 : INFO] - WPLANG: en_US 
+[2021-06-29 12:13:46 : INFO] - Server: LiteSpeed 
+[2021-06-29 12:13:46 : INFO] - Outbound connections: N 
+[2021-06-29 12:13:46 : INFO] - safe_mode: 0 
+[2021-06-29 12:13:46 : INFO] - max_execution_time: 300 
+[2021-06-29 12:13:46 : INFO] - memory_limit: 256M (used: 12.2M | 2M) 
+[2021-06-29 12:13:46 : INFO] - multisite: N 
+[2021-06-29 12:13:46 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-29 12:13:46 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-06-29 12:13:46 : INFO] - Set semaphore last lock (smush) time to 2021-06-29 12:13:46 
+[2021-06-29 12:13:46 : INFO] - Semaphore lock (smush) complete 
+[2021-06-29 12:13:46 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2021-06-29 12:13:46 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:13:46 : INFO] - 95 
+[2021-06-29 12:13:50 : INFO] - Backing up the original image - 2021/06/hghgh-updraft-pre-smush-original.png 
+[2021-06-29 12:13:50 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:13:50 : INFO] - 95 
+[2021-06-29 12:13:57 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:13:57 : INFO] - 95 
+[2021-06-29 12:14:03 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:03 : INFO] - 95 
+[2021-06-29 12:14:05 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:05 : INFO] - 95 
+[2021-06-29 12:14:11 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:11 : INFO] - 95 
+[2021-06-29 12:14:14 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:14 : INFO] - 95 
+[2021-06-29 12:14:16 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:16 : INFO] - 95 
+[2021-06-29 12:14:19 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:19 : INFO] - 95 
+[2021-06-29 12:14:23 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:23 : INFO] - 95 
+[2021-06-29 12:14:29 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:29 : INFO] - 95 
+[2021-06-29 12:14:30 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:30 : INFO] - 95 
+[2021-06-29 12:14:34 : INFO] - Re_Smush_It_Task with attachment ID : 2235, autocreated on : June 29, 2021 12:08:44 
+[2021-06-29 12:14:34 : INFO] - 95 
+[2021-06-29 12:14:36 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/06/hghgh.png.The file was compressed from 505.30 KB to 150.95 KB saving 70.13 percent using WP-Optimize 
+[2021-06-29 12:14:36 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2021-06-29 12:14:36 : INFO] - Set semaphore last lock (smush) time to 2021-06-29 12:14:36 
+[2021-06-29 12:14:36 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-06-29 12:14:36 : INFO] - Semaphore (smush) unlocked 
+[2021-06-29 12:14:36 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-06-29 12:14:36 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-06-29 12:14:36 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-06-29 12:45:32 : INFO] - 
+ 
+[2021-06-29 12:45:32 : INFO] - Header for logs at time:  Tue, 29 Jun 2021 12:45:32 +0000 on https://eventpenulis.com 
+[2021-06-29 12:45:32 : INFO] - WP: 5.7.2 
+[2021-06-29 12:45:32 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-06-29 12:45:32 : INFO] - MySQL: 5.5.5 
+[2021-06-29 12:45:32 : INFO] - WPLANG: en_US 
+[2021-06-29 12:45:32 : INFO] - Server: LiteSpeed 
+[2021-06-29 12:45:32 : INFO] - Outbound connections: N 
+[2021-06-29 12:45:32 : INFO] - safe_mode: 0 
+[2021-06-29 12:45:32 : INFO] - max_execution_time: 300 
+[2021-06-29 12:45:32 : INFO] - memory_limit: 256M (used: 34.5M | 36M) 
+[2021-06-29 12:45:32 : INFO] - multisite: N 
+[2021-06-29 12:45:32 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-06-29 12:45:32 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-07-04 10:12:50 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:17:51 : INFO] - 
+ 
+[2021-07-04 10:17:51 : INFO] - Header for logs at time:  Sun, 04 Jul 2021 10:17:51 +0000 on https://eventpenulis.com 
+[2021-07-04 10:17:51 : INFO] - WP: 5.7.2 
+[2021-07-04 10:17:51 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-07-04 10:17:51 : INFO] - MySQL: 5.5.5 
+[2021-07-04 10:17:51 : INFO] - WPLANG: en_US 
+[2021-07-04 10:17:51 : INFO] - Server: LiteSpeed 
+[2021-07-04 10:17:51 : INFO] - Outbound connections: N 
+[2021-07-04 10:17:51 : INFO] - safe_mode: 0 
+[2021-07-04 10:17:51 : INFO] - max_execution_time: 300 
+[2021-07-04 10:17:51 : INFO] - memory_limit: 256M (used: 12.3M | 14M) 
+[2021-07-04 10:17:51 : INFO] - multisite: N 
+[2021-07-04 10:17:51 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-07-04 10:17:51 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-07-04 10:17:51 : INFO] - Set semaphore last lock (smush) time to 2021-07-04 10:17:51 
+[2021-07-04 10:17:51 : INFO] - Semaphore lock (smush) complete 
+[2021-07-04 10:17:51 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2021-07-04 10:17:51 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:17:51 : INFO] - 95 
+[2021-07-04 10:17:57 : INFO] - Backing up the original image - 2021/07/Poster-FCPN2021-updraft-pre-smush-original.jpg 
+[2021-07-04 10:17:57 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:17:57 : INFO] - 95 
+[2021-07-04 10:17:58 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:17:58 : INFO] - 95 
+[2021-07-04 10:18:01 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:01 : INFO] - 95 
+[2021-07-04 10:18:02 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:02 : INFO] - 95 
+[2021-07-04 10:18:04 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:04 : INFO] - 95 
+[2021-07-04 10:18:08 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:08 : INFO] - 95 
+[2021-07-04 10:18:13 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:13 : INFO] - 95 
+[2021-07-04 10:18:21 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:21 : INFO] - 95 
+[2021-07-04 10:18:22 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:22 : INFO] - 95 
+[2021-07-04 10:18:23 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:23 : INFO] - 95 
+[2021-07-04 10:18:24 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:24 : INFO] - 95 
+[2021-07-04 10:18:25 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:25 : INFO] - 95 
+[2021-07-04 10:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:29 : INFO] - 95 
+[2021-07-04 10:18:38 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:38 : INFO] - 95 
+[2021-07-04 10:18:39 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:39 : INFO] - 95 
+[2021-07-04 10:18:41 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:41 : INFO] - 95 
+[2021-07-04 10:18:42 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:42 : INFO] - 95 
+[2021-07-04 10:18:43 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:43 : INFO] - 95 
+[2021-07-04 10:18:44 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:44 : INFO] - 95 
+[2021-07-04 10:18:47 : INFO] - Re_Smush_It_Task with attachment ID : 2239, autocreated on : July 04, 2021 10:12:50 
+[2021-07-04 10:18:47 : INFO] - 95 
+[2021-07-04 10:18:50 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/07/Poster-FCPN2021.jpg.The file was compressed from 991.27 KB to 934.51 KB saving 5.73 percent using WP-Optimize 
+[2021-07-04 10:18:50 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2021-07-04 10:18:50 : INFO] - Set semaphore last lock (smush) time to 2021-07-04 10:18:50 
+[2021-07-04 10:18:50 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-07-04 10:18:50 : INFO] - Semaphore (smush) unlocked 
+[2021-07-04 10:18:50 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-07-04 10:18:50 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-07-04 10:18:50 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-07-04 10:19:09 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:19:24 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:09 : INFO] - 
+ 
+[2021-07-04 10:28:09 : INFO] - Header for logs at time:  Sun, 04 Jul 2021 10:28:09 +0000 on https://eventpenulis.com 
+[2021-07-04 10:28:09 : INFO] - WP: 5.7.2 
+[2021-07-04 10:28:09 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-07-04 10:28:09 : INFO] - MySQL: 5.5.5 
+[2021-07-04 10:28:09 : INFO] - WPLANG: en_US 
+[2021-07-04 10:28:09 : INFO] - Server: LiteSpeed 
+[2021-07-04 10:28:09 : INFO] - Outbound connections: N 
+[2021-07-04 10:28:09 : INFO] - safe_mode: 0 
+[2021-07-04 10:28:09 : INFO] - max_execution_time: 300 
+[2021-07-04 10:28:09 : INFO] - memory_limit: 256M (used: 12.3M | 14M) 
+[2021-07-04 10:28:09 : INFO] - multisite: N 
+[2021-07-04 10:28:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-07-04 10:28:09 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-07-04 10:28:09 : INFO] - Set semaphore last lock (smush) time to 2021-07-04 10:28:09 
+[2021-07-04 10:28:09 : INFO] - Semaphore lock (smush) complete 
+[2021-07-04 10:28:09 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2021-07-04 10:28:09 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:09 : INFO] - 95 
+[2021-07-04 10:28:13 : INFO] - Backing up the original image - 2021/07/image-updraft-pre-smush-original.png 
+[2021-07-04 10:28:13 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:13 : INFO] - 95 
+[2021-07-04 10:28:14 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:14 : INFO] - 95 
+[2021-07-04 10:28:19 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:19 : INFO] - 95 
+[2021-07-04 10:28:20 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:20 : INFO] - 95 
+[2021-07-04 10:28:23 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:23 : INFO] - 95 
+[2021-07-04 10:28:27 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:27 : INFO] - 95 
+[2021-07-04 10:28:29 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:29 : INFO] - 95 
+[2021-07-04 10:28:31 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:31 : INFO] - 95 
+[2021-07-04 10:28:34 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:34 : INFO] - 95 
+[2021-07-04 10:28:35 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:35 : INFO] - 95 
+[2021-07-04 10:28:42 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:42 : INFO] - 95 
+[2021-07-04 10:28:43 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:43 : INFO] - 95 
+[2021-07-04 10:28:47 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:47 : INFO] - 95 
+[2021-07-04 10:28:51 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:51 : INFO] - 95 
+[2021-07-04 10:28:52 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:52 : INFO] - 95 
+[2021-07-04 10:28:55 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:55 : INFO] - 95 
+[2021-07-04 10:28:57 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:28:57 : INFO] - 95 
+[2021-07-04 10:29:02 : INFO] - Re_Smush_It_Task with attachment ID : 2245, autocreated on : July 04, 2021 10:19:24 
+[2021-07-04 10:29:02 : INFO] - 95 
+[2021-07-04 10:29:08 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/07/image.png.The file was compressed from 849.60 KB to 181.54 KB saving 78.63 percent using WP-Optimize 
+[2021-07-04 10:29:08 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2021-07-04 10:29:08 : INFO] - Set semaphore last lock (smush) time to 2021-07-04 10:29:08 
+[2021-07-04 10:29:08 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2021-07-04 10:29:08 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:08 : INFO] - 95 
+[2021-07-04 10:29:12 : INFO] - Backing up the original image - 2021/07/hj-updraft-pre-smush-original.png 
+[2021-07-04 10:29:12 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:12 : INFO] - 95 
+[2021-07-04 10:29:14 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:14 : INFO] - 95 
+[2021-07-04 10:29:15 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:15 : INFO] - 95 
+[2021-07-04 10:29:18 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:18 : INFO] - 95 
+[2021-07-04 10:29:21 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:21 : INFO] - 95 
+[2021-07-04 10:29:23 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:23 : INFO] - 95 
+[2021-07-04 10:29:28 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:28 : INFO] - 95 
+[2021-07-04 10:29:29 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:29 : INFO] - 95 
+[2021-07-04 10:29:31 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:31 : INFO] - 95 
+[2021-07-04 10:29:33 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:33 : INFO] - 95 
+[2021-07-04 10:29:37 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:37 : INFO] - 95 
+[2021-07-04 10:29:37 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:37 : INFO] - 95 
+[2021-07-04 10:29:42 : INFO] - Re_Smush_It_Task with attachment ID : 2244, autocreated on : July 04, 2021 10:19:09 
+[2021-07-04 10:29:42 : INFO] - 95 
+[2021-07-04 10:29:45 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/07/hj.png.The file was compressed from 575.37 KB to 126.36 KB saving 78.04 percent using WP-Optimize 
+[2021-07-04 10:29:45 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2021-07-04 10:29:45 : INFO] - Set semaphore last lock (smush) time to 2021-07-04 10:29:45 
+[2021-07-04 10:29:45 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-07-04 10:29:45 : INFO] - Semaphore (smush) unlocked 
+[2021-07-04 10:29:45 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-07-04 10:29:45 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-07-04 10:29:45 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-07-04 10:38:14 : INFO] - 
+ 
+[2021-07-04 10:38:14 : INFO] - Header for logs at time:  Sun, 04 Jul 2021 10:38:14 +0000 on https://eventpenulis.com 
+[2021-07-04 10:38:14 : INFO] - WP: 5.7.2 
+[2021-07-04 10:38:14 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-07-04 10:38:14 : INFO] - MySQL: 5.5.5 
+[2021-07-04 10:38:14 : INFO] - WPLANG: en_US 
+[2021-07-04 10:38:14 : INFO] - Server: LiteSpeed 
+[2021-07-04 10:38:14 : INFO] - Outbound connections: N 
+[2021-07-04 10:38:14 : INFO] - safe_mode: 0 
+[2021-07-04 10:38:14 : INFO] - max_execution_time: 300 
+[2021-07-04 10:38:14 : INFO] - memory_limit: 256M (used: 12.3M | 14M) 
+[2021-07-04 10:38:14 : INFO] - multisite: N 
+[2021-07-04 10:38:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-07-04 10:38:14 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-07-04 10:43:06 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:47:34 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:09 : INFO] - 
+ 
+[2021-07-04 10:48:09 : INFO] - Header for logs at time:  Sun, 04 Jul 2021 10:48:09 +0000 on https://eventpenulis.com 
+[2021-07-04 10:48:09 : INFO] - WP: 5.7.2 
+[2021-07-04 10:48:09 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-07-04 10:48:09 : INFO] - MySQL: 5.5.5 
+[2021-07-04 10:48:09 : INFO] - WPLANG: en_US 
+[2021-07-04 10:48:09 : INFO] - Server: LiteSpeed 
+[2021-07-04 10:48:09 : INFO] - Outbound connections: N 
+[2021-07-04 10:48:09 : INFO] - safe_mode: 0 
+[2021-07-04 10:48:09 : INFO] - max_execution_time: 300 
+[2021-07-04 10:48:09 : INFO] - memory_limit: 256M (used: 12.3M | 2M) 
+[2021-07-04 10:48:09 : INFO] - multisite: N 
+[2021-07-04 10:48:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-07-04 10:48:09 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-07-04 10:48:09 : INFO] - Set semaphore last lock (smush) time to 2021-07-04 10:48:09 
+[2021-07-04 10:48:09 : INFO] - Semaphore lock (smush) complete 
+[2021-07-04 10:48:09 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2021-07-04 10:48:09 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:09 : INFO] - 95 
+[2021-07-04 10:48:16 : INFO] - Backing up the original image - 2021/07/ghgfhgfhgf-updraft-pre-smush-original.png 
+[2021-07-04 10:48:16 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:16 : INFO] - 95 
+[2021-07-04 10:48:18 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:18 : INFO] - 95 
+[2021-07-04 10:48:19 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:19 : INFO] - 95 
+[2021-07-04 10:48:22 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:22 : INFO] - 95 
+[2021-07-04 10:48:25 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:25 : INFO] - 95 
+[2021-07-04 10:48:31 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:31 : INFO] - 95 
+[2021-07-04 10:48:33 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:33 : INFO] - 95 
+[2021-07-04 10:48:35 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:35 : INFO] - 95 
+[2021-07-04 10:48:39 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:39 : INFO] - 95 
+[2021-07-04 10:48:40 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:40 : INFO] - 95 
+[2021-07-04 10:48:44 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:44 : INFO] - 95 
+[2021-07-04 10:48:44 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:44 : INFO] - 95 
+[2021-07-04 10:48:50 : INFO] - Re_Smush_It_Task with attachment ID : 2253, autocreated on : July 04, 2021 10:47:34 
+[2021-07-04 10:48:50 : INFO] - 95 
+[2021-07-04 10:48:54 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/07/ghgfhgfhgf.png.The file was compressed from 607.24 KB to 162.12 KB saving 73.3 percent using WP-Optimize 
+[2021-07-04 10:48:54 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2021-07-04 10:48:54 : INFO] - Set semaphore last lock (smush) time to 2021-07-04 10:48:54 
+[2021-07-04 10:48:54 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2021-07-04 10:48:54 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:48:54 : INFO] - 95 
+[2021-07-04 10:49:01 : INFO] - Backing up the original image - 2021/07/hhhhh-updraft-pre-smush-original.png 
+[2021-07-04 10:49:01 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:01 : INFO] - 95 
+[2021-07-04 10:49:04 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:04 : INFO] - 95 
+[2021-07-04 10:49:05 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:05 : INFO] - 95 
+[2021-07-04 10:49:10 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:10 : INFO] - 95 
+[2021-07-04 10:49:13 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:13 : INFO] - 95 
+[2021-07-04 10:49:17 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:17 : INFO] - 95 
+[2021-07-04 10:49:19 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:19 : INFO] - 95 
+[2021-07-04 10:49:21 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:21 : INFO] - 95 
+[2021-07-04 10:49:25 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:25 : INFO] - 95 
+[2021-07-04 10:49:27 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:27 : INFO] - 95 
+[2021-07-04 10:49:33 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:33 : INFO] - 95 
+[2021-07-04 10:49:34 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:34 : INFO] - 95 
+[2021-07-04 10:49:36 : INFO] - Re_Smush_It_Task with attachment ID : 2248, autocreated on : July 04, 2021 10:43:06 
+[2021-07-04 10:49:36 : INFO] - 95 
+[2021-07-04 10:49:40 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/07/hhhhh.png.The file was compressed from 447.77 KB to 187.85 KB saving 58.05 percent using WP-Optimize 
+[2021-07-04 10:49:40 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2021-07-04 10:49:40 : INFO] - Set semaphore last lock (smush) time to 2021-07-04 10:49:40 
+[2021-07-04 10:49:40 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-07-04 10:49:40 : INFO] - Semaphore (smush) unlocked 
+[2021-07-04 10:49:40 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-07-04 10:49:40 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-07-04 10:49:40 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-07-04 11:02:52 : INFO] - 
+ 
+[2021-07-04 11:02:52 : INFO] - Header for logs at time:  Sun, 04 Jul 2021 11:02:52 +0000 on https://eventpenulis.com 
+[2021-07-04 11:02:52 : INFO] - WP: 5.7.2 
+[2021-07-04 11:02:52 : INFO] - PHP: 7.4.20 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-07-04 11:02:52 : INFO] - MySQL: 5.5.5 
+[2021-07-04 11:02:52 : INFO] - WPLANG: en_US 
+[2021-07-04 11:02:52 : INFO] - Server: LiteSpeed 
+[2021-07-04 11:02:52 : INFO] - Outbound connections: N 
+[2021-07-04 11:02:52 : INFO] - safe_mode: 0 
+[2021-07-04 11:02:52 : INFO] - max_execution_time: 300 
+[2021-07-04 11:02:52 : INFO] - memory_limit: 256M (used: 12.3M | 14M) 
+[2021-07-04 11:02:52 : INFO] - multisite: N 
+[2021-07-04 11:02:52 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-07-04 11:02:52 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-03 09:49:36 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:10:06 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:07 : INFO] - 
+ 
+[2021-12-03 11:15:07 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 11:15:07 +0000 on https://eventpenulis.com 
+[2021-12-03 11:15:07 : INFO] - WP: 5.8.2 
+[2021-12-03 11:15:07 : INFO] - PHP: 7.4.26 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-12-03 11:15:07 : INFO] - MySQL: 5.5.5 
+[2021-12-03 11:15:07 : INFO] - WPLANG: en_US 
+[2021-12-03 11:15:07 : INFO] - Server: LiteSpeed 
+[2021-12-03 11:15:07 : INFO] - Outbound connections: N 
+[2021-12-03 11:15:07 : INFO] - safe_mode: 0 
+[2021-12-03 11:15:07 : INFO] - max_execution_time: 300 
+[2021-12-03 11:15:07 : INFO] - memory_limit: 256M (used: 13.5M | 14M) 
+[2021-12-03 11:15:07 : INFO] - multisite: N 
+[2021-12-03 11:15:07 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-03 11:15:07 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-12-03 11:15:07 : INFO] - Set semaphore last lock (smush) time to 2021-12-03 11:15:07 
+[2021-12-03 11:15:07 : INFO] - Semaphore lock (smush) complete 
+[2021-12-03 11:15:07 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2021-12-03 11:15:07 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:07 : INFO] - 95 
+[2021-12-03 11:15:11 : INFO] - Backing up the original image - 2021/12/Lomba-Menulis-Puisi-Nasional-2021-updraft-pre-smush-original.jpeg 
+[2021-12-03 11:15:11 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:11 : INFO] - 95 
+[2021-12-03 11:15:13 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:13 : INFO] - 95 
+[2021-12-03 11:15:18 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:18 : INFO] - 95 
+[2021-12-03 11:15:22 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:22 : INFO] - 95 
+[2021-12-03 11:15:30 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:30 : INFO] - 95 
+[2021-12-03 11:15:36 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:36 : INFO] - 95 
+[2021-12-03 11:15:42 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:42 : INFO] - 95 
+[2021-12-03 11:15:47 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:47 : INFO] - 95 
+[2021-12-03 11:15:51 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:51 : INFO] - 95 
+[2021-12-03 11:15:53 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:53 : INFO] - 95 
+[2021-12-03 11:15:55 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:15:55 : INFO] - 95 
+[2021-12-03 11:16:01 : INFO] - Task with ID 16 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-12-03 11:16:01 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/d5e9daa6c554551e0e4c877f3d659142\/_src_Lomba-Menulis-Puisi-Nasional-2021-320x202.jpeg","dest":"http:\/\/par2.static.resmush.it\/d5e9daa6c554551e0e4c877f3d659142\/Lomba-Menulis-Puisi-Nasional-2021-320x202.jpeg","src_size":20783,"dest_size":19228,"percent":7,"output":"json","expires":"Fri, 03 Dec 2021 12:20:56 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-12-03 11:16:01 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:16:01 : INFO] - 95 
+[2021-12-03 11:16:07 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:16:07 : INFO] - 95 
+[2021-12-03 11:16:08 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:16:08 : INFO] - 95 
+[2021-12-03 11:16:09 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:16:09 : INFO] - 95 
+[2021-12-03 11:16:11 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:16:11 : INFO] - 95 
+[2021-12-03 11:16:15 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:16:15 : INFO] - 95 
+[2021-12-03 11:16:17 : INFO] - Re_Smush_It_Task with attachment ID : 2266, autocreated on : December 03, 2021 11:10:06 
+[2021-12-03 11:16:17 : INFO] - 95 
+[2021-12-03 11:16:21 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/12/Lomba-Menulis-Puisi-Nasional-2021.jpeg.The file was compressed from 486.15 KB to 363.68 KB saving 25.19 percent using WP-Optimize 
+[2021-12-03 11:16:21 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2021-12-03 11:16:21 : INFO] - Set semaphore last lock (smush) time to 2021-12-03 11:16:21 
+[2021-12-03 11:16:21 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2021-12-03 11:16:21 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:21 : INFO] - 95 
+[2021-12-03 11:16:28 : INFO] - Backing up the original image - 2021/12/LMCN-updraft-pre-smush-original.jpeg 
+[2021-12-03 11:16:28 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:28 : INFO] - 95 
+[2021-12-03 11:16:29 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:29 : INFO] - 95 
+[2021-12-03 11:16:35 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:35 : INFO] - 95 
+[2021-12-03 11:16:37 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:37 : INFO] - 95 
+[2021-12-03 11:16:39 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:39 : INFO] - 95 
+[2021-12-03 11:16:41 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:41 : INFO] - 95 
+[2021-12-03 11:16:47 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:47 : INFO] - 95 
+[2021-12-03 11:16:53 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:53 : INFO] - 95 
+[2021-12-03 11:16:55 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:55 : INFO] - 95 
+[2021-12-03 11:16:57 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:57 : INFO] - 95 
+[2021-12-03 11:16:58 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:16:58 : INFO] - 95 
+[2021-12-03 11:17:00 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:17:00 : INFO] - 95 
+[2021-12-03 11:17:02 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:17:02 : INFO] - 95 
+[2021-12-03 11:17:06 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:17:06 : INFO] - 95 
+[2021-12-03 11:17:07 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:17:07 : INFO] - 95 
+[2021-12-03 11:17:10 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:17:10 : INFO] - 95 
+[2021-12-03 11:17:15 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:17:15 : INFO] - 95 
+[2021-12-03 11:17:21 : INFO] - Re_Smush_It_Task with attachment ID : 2257, autocreated on : December 03, 2021 09:49:36 
+[2021-12-03 11:17:21 : INFO] - 95 
+[2021-12-03 11:17:29 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/12/LMCN.jpeg.The file was compressed from 480.90 KB to 385.71 KB saving 19.79 percent using WP-Optimize 
+[2021-12-03 11:17:29 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2021-12-03 11:17:29 : INFO] - Set semaphore last lock (smush) time to 2021-12-03 11:17:29 
+[2021-12-03 11:17:29 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-12-03 11:17:29 : INFO] - Semaphore (smush) unlocked 
+[2021-12-03 11:17:29 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-12-03 11:17:29 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-12-03 11:17:29 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-12-03 11:25:27 : INFO] - 
+ 
+[2021-12-03 11:25:27 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 11:25:27 +0000 on https://eventpenulis.com 
+[2021-12-03 11:25:27 : INFO] - WP: 5.8.2 
+[2021-12-03 11:25:27 : INFO] - PHP: 7.4.26 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-12-03 11:25:27 : INFO] - MySQL: 5.5.5 
+[2021-12-03 11:25:27 : INFO] - WPLANG: en_US 
+[2021-12-03 11:25:27 : INFO] - Server: LiteSpeed 
+[2021-12-03 11:25:27 : INFO] - Outbound connections: N 
+[2021-12-03 11:25:27 : INFO] - safe_mode: 0 
+[2021-12-03 11:25:27 : INFO] - max_execution_time: 300 
+[2021-12-03 11:25:27 : INFO] - memory_limit: 256M (used: 13.5M | 14M) 
+[2021-12-03 11:25:27 : INFO] - multisite: N 
+[2021-12-03 11:25:27 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-03 11:25:27 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-12-03 13:42:42 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:47:43 : INFO] - 
+ 
+[2021-12-03 13:47:43 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 13:47:43 +0000 on https://eventpenulis.com 
+[2021-12-03 13:47:43 : INFO] - WP: 5.8.2 
+[2021-12-03 13:47:43 : INFO] - PHP: 7.4.26 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-12-03 13:47:43 : INFO] - MySQL: 5.5.5 
+[2021-12-03 13:47:43 : INFO] - WPLANG: en_US 
+[2021-12-03 13:47:43 : INFO] - Server: LiteSpeed 
+[2021-12-03 13:47:43 : INFO] - Outbound connections: N 
+[2021-12-03 13:47:43 : INFO] - safe_mode: 0 
+[2021-12-03 13:47:43 : INFO] - max_execution_time: 300 
+[2021-12-03 13:47:43 : INFO] - memory_limit: 256M (used: 13.4M | 8M) 
+[2021-12-03 13:47:43 : INFO] - multisite: N 
+[2021-12-03 13:47:43 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-03 13:47:43 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-12-03 13:47:43 : INFO] - Set semaphore last lock (smush) time to 2021-12-03 13:47:43 
+[2021-12-03 13:47:43 : INFO] - Semaphore lock (smush) complete 
+[2021-12-03 13:47:43 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2021-12-03 13:47:43 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:47:43 : INFO] - 95 
+[2021-12-03 13:47:47 : INFO] - Backing up the original image - 2021/12/262153651_3134559116777666_3300671644983895503_n-updraft-pre-smush-original.jpg 
+[2021-12-03 13:47:47 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:47:47 : INFO] - 95 
+[2021-12-03 13:47:50 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:47:50 : INFO] - 95 
+[2021-12-03 13:47:54 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:47:54 : INFO] - 95 
+[2021-12-03 13:47:55 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:47:55 : INFO] - 95 
+[2021-12-03 13:47:58 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:47:58 : INFO] - 95 
+[2021-12-03 13:48:00 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:00 : INFO] - 95 
+[2021-12-03 13:48:03 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:03 : INFO] - 95 
+[2021-12-03 13:48:05 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:05 : INFO] - 95 
+[2021-12-03 13:48:07 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:07 : INFO] - 95 
+[2021-12-03 13:48:12 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:12 : INFO] - 95 
+[2021-12-03 13:48:14 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:14 : INFO] - 95 
+[2021-12-03 13:48:16 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:16 : INFO] - 95 
+[2021-12-03 13:48:18 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:18 : INFO] - 95 
+[2021-12-03 13:48:19 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:19 : INFO] - 95 
+[2021-12-03 13:48:21 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:21 : INFO] - 95 
+[2021-12-03 13:48:26 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:26 : INFO] - 95 
+[2021-12-03 13:48:29 : INFO] - Re_Smush_It_Task with attachment ID : 2275, autocreated on : December 03, 2021 01:42:42 
+[2021-12-03 13:48:29 : INFO] - 95 
+[2021-12-03 13:48:35 : INFO] - Task with ID 17 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-12-03 13:48:35 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/8871239e38904f1fe0de97a77d287545\/_src_262153651_3134559116777666_3300671644983895503_n-800x800.jpg","dest":"http:\/\/par3.static.resmush.it\/8871239e38904f1fe0de97a77d287545\/262153651_3134559116777666_3300671644983895503_n-800x800.jpg","src_size":122830,"dest_size":113269,"percent":8,"output":"json","expires":"Fri, 03 Dec 2021 14:53:30 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-12-03 13:48:35 : INFO] - Successfully optimized the image - /home/funbahas/eventpenulis.com/wp-content/uploads/2021/12/262153651_3134559116777666_3300671644983895503_n.jpg.The file was compressed from 118.95 KB to 117.12 KB saving 1.54 percent using WP-Optimize 
+[2021-12-03 13:48:35 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2021-12-03 13:48:35 : INFO] - Set semaphore last lock (smush) time to 2021-12-03 13:48:35 
+[2021-12-03 13:48:35 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-12-03 13:48:35 : INFO] - Semaphore (smush) unlocked 
+[2021-12-03 13:48:35 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-12-03 13:48:35 : INFO] - Semaphore (smush, wpnq_options) was successfully cleaned up 
+[2021-12-03 13:48:35 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-12-03 13:58:05 : INFO] - 
+ 
+[2021-12-03 13:58:05 : INFO] - Header for logs at time:  Fri, 03 Dec 2021 13:58:05 +0000 on https://eventpenulis.com 
+[2021-12-03 13:58:05 : INFO] - WP: 5.8.2 
+[2021-12-03 13:58:05 : INFO] - PHP: 7.4.26 (litespeed, Linux alice.jagoanhosting.com 3.10.0-962.3.2.lve1.5.44.3.el7.x86_64 #1 SMP Mon Feb 22 04:35:33 EST 2021 x86_64) 
+[2021-12-03 13:58:05 : INFO] - MySQL: 5.5.5 
+[2021-12-03 13:58:05 : INFO] - WPLANG: en_US 
+[2021-12-03 13:58:05 : INFO] - Server: LiteSpeed 
+[2021-12-03 13:58:05 : INFO] - Outbound connections: N 
+[2021-12-03 13:58:05 : INFO] - safe_mode: 0 
+[2021-12-03 13:58:05 : INFO] - max_execution_time: 300 
+[2021-12-03 13:58:05 : INFO] - memory_limit: 256M (used: 13.5M | 14M) 
+[2021-12-03 13:58:05 : INFO] - multisite: N 
+[2021-12-03 13:58:05 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-12-03 13:58:05 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

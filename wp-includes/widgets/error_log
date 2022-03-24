@@ -1,0 +1,120 @@
+[25-Aug-2021 18:12:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Sep-2021 05:22:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Sep-2021 23:40:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Sep-2021 21:52:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Sep-2021 15:42:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Sep-2021 13:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Sep-2021 00:12:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Sep-2021 08:33:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Sep-2021 22:29:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Sep-2021 22:37:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Oct-2021 13:22:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Oct-2021 17:44:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Oct-2021 18:15:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Oct-2021 18:18:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Oct-2021 07:42:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Oct-2021 22:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2021 05:05:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2021 08:08:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Nov-2021 01:01:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Nov-2021 23:01:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2021 13:25:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2021 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Dec-2021 12:16:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Dec-2021 00:42:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jan-2022 18:41:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Jan-2022 18:26:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Jan-2022 10:44:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Jan-2022 03:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Jan-2022 12:16:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Jan-2022 15:31:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/widgets/class-wp-widget-block.php on line 17

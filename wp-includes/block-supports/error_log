@@ -1,0 +1,40 @@
+[30-Sep-2021 22:28:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/funbahas/eventpenulis.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/border.php on line 170
+[30-Sep-2021 22:28:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/funbahas/eventpenulis.com/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/duotone.php on line 426
+[30-Sep-2021 22:28:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/funbahas/eventpenulis.com/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/elements.php on line 71
+[30-Sep-2021 22:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/funbahas/eventpenulis.com/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/layout.php on line 99
+[30-Sep-2021 22:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/funbahas/eventpenulis.com/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/spacing.php on line 89
+[30-Sep-2021 22:37:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/funbahas/eventpenulis.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/border.php on line 170
+[30-Sep-2021 22:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/funbahas/eventpenulis.com/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/duotone.php on line 426
+[30-Sep-2021 22:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/funbahas/eventpenulis.com/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/elements.php on line 71
+[30-Sep-2021 22:37:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/funbahas/eventpenulis.com/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/layout.php on line 99
+[30-Sep-2021 22:37:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/funbahas/eventpenulis.com/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-supports/spacing.php on line 89

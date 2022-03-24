@@ -1,0 +1,56 @@
+[30-Sep-2021 22:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[30-Sep-2021 22:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[30-Sep-2021 22:28:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[30-Sep-2021 22:28:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[30-Sep-2021 22:28:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[30-Sep-2021 22:28:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[30-Sep-2021 22:28:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[30-Sep-2021 22:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[30-Sep-2021 22:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[30-Sep-2021 22:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[30-Sep-2021 22:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[30-Sep-2021 22:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[30-Sep-2021 22:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[30-Sep-2021 22:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

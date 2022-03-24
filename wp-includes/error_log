@@ -1,0 +1,132 @@
+[25-Aug-2021 18:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[03-Sep-2021 05:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[18-Sep-2021 23:37:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[22-Sep-2021 21:49:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[23-Sep-2021 15:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[25-Sep-2021 19:11:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[26-Sep-2021 13:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[27-Sep-2021 00:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[30-Sep-2021 08:25:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[30-Sep-2021 22:27:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[30-Sep-2021 22:36:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[04-Oct-2021 13:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[10-Oct-2021 17:43:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[12-Oct-2021 18:11:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[12-Oct-2021 18:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[13-Oct-2021 07:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[16-Oct-2021 10:57:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[16-Oct-2021 22:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[19-Oct-2021 05:04:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[19-Oct-2021 08:05:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[19-Oct-2021 12:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[14-Nov-2021 00:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[14-Nov-2021 22:54:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[04-Dec-2021 13:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[04-Dec-2021 13:30:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[13-Dec-2021 12:13:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[19-Dec-2021 00:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[03-Jan-2022 18:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[04-Jan-2022 18:17:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[14-Jan-2022 10:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[22-Jan-2022 03:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[22-Jan-2022 12:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
+[22-Jan-2022 15:29:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/funbahas/eventpenulis.com/wp-includes/template-canvas.php on line 12
